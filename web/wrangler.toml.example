@@ -60,7 +60,7 @@ WORKERS_AI_MODEL = "@cf/meta/llama-3.3-70b-instruct-fp8-fast"
 [triggers]
 crons = ["0 * * * *"]
 
-# ─── Optional Service Bindings ────────────────────────────────
+# ─── Optional Service Bindings ────────────────────────────────1
 # Uncomment and configure as needed.
 
 # Memory Worker (persistent semantic memory with vector search)
