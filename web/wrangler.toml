@@ -48,7 +48,7 @@ tag = "v2-aegis-voice-adapter"
 new_sqlite_classes = ["AegisVoiceAdapter"]
 
 [vars]
-WORKERS_AI_MODEL = "@cf/deepseek-ai/deepseek-v4-flash-0731"
+WORKERS_AI_MODEL = "@cf/deepseek-ai/deepseek-v4.1-flash-1017"
 
 [triggers]
 crons = ["0 * * * *"]
